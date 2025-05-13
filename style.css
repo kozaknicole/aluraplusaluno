@@ -38,7 +38,7 @@ body {
     margin: 0 6em;
 }
 
-.container_titulo {
+.container__titulo {
     font-size: 28px;
     font-weight: 700;
 }
@@ -72,30 +72,27 @@ body {
     margin: 0 10em;
 }
 
-.secundario imagem {
+.secundario__imagem {
     width: 80%;
 }
 
-.container descricao {
+.container_descricao {
     padding: 2em;
 }
 
-.descricao titulo {
+.descricao_titulo {
     font-weight: 700;
     font-size: 48px;
     color: var(--branco-principal);
     margin-bottom: 0.1em;
 }
 
-descricao texto {
+.descricao_texto {
     color: var(--cinza-secundario);
 }
 
-descricao texto {
-    color: var(--cinza-secundario);
-}
 
-.secundario botao {
+.secundario_botao {
     display: inline-block;
     margin-top: 1em;
 }
