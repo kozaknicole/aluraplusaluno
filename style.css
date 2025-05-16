@@ -129,7 +129,7 @@ body {
     margin-left: 1em;
 }
 
-.rodape__lista {
+.rodape_lista {
     display: flex;
     justify-content: center;
     list-style-type: none;
