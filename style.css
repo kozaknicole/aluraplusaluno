@@ -98,7 +98,7 @@ body {
 }
 
 .dispositivos {
-    align-content: center
+    text-align: center;
 }
 
 .dispositivos_titulo {
